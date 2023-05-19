@@ -1,5 +1,5 @@
 # Completer Python-3 Bootcamp
-Welcome to the complete Python Bootcamp. Now, you are one step closer to be a high-paid developer
+Welcome to the complete Python Bootcamp. Now, you are one step closer to be a high-paid developer <br> HI b r u h
 ___
 **Table of Contexts**
 1. [Graphene Installation](#graphene-installation)
@@ -41,4 +41,7 @@ dealer_hands.extend([random.choice(cards), random.choice(cards)])
 
 ![inmage](C:\Users\User\OneDrive\Pictures\BlackJack6.jpg)
  
- 
+ - [ ] Task #1
+ - [ ] Task #2
+ - [ ] sweeping #3
+ - [ ] bathing #4
