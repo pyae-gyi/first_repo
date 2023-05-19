@@ -39,6 +39,6 @@ dealer_hands.extend([random.choice(cards), random.choice(cards)])
  > 
  > -- <cite>**someone handsome**</cite>
 
-![inmage]("C:\Users\User\OneDrive\Pictures\BlackJack6.jpg")
+![inmage](C:\Users\User\OneDrive\Pictures\BlackJack6.jpg)
  
  
