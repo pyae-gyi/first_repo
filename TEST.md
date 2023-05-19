@@ -9,6 +9,8 @@ ___
 1. peach
 1. bean
 
+[Click this if you are cool](https://github.com/wolfman30/Complete_Python_3_Bootcamp-From-Zero-to-Hero/blob/main/README.md)
+
 ## Graphene Installation
 install graphene: `pip install django_graphene`
 
@@ -36,6 +38,7 @@ dealer_hands.extend([random.choice(cards), random.choice(cards)])
  >> Fck my personality 
  > 
  > -- <cite>**someone handsome**</cite>
- 
+
+![inmage]("C:\Users\User\OneDrive\Pictures\BlackJack6.jpg")
  
  
