@@ -1,2 +1,2 @@
-Q: Hello mate, how are ya?
-A: I am fine mate. How about ya? Did you sleep well last night?
+Q: Did you sleep well last night?
+A: I did sleep well and yesterday is a good day.
